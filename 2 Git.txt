@@ -3,3 +3,4 @@ git config --global http.proxy http://dune%5CLogin:Password@192.168.40.21:8080
 git config --global http.sslVerify false
 git remote set-url origin https://git_login:token@github.com/git_login/rep_name.git
 
+dfrtgyhuio
